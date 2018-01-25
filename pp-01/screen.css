@@ -7,3 +7,43 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+/* Base Styles */
+html {
+  font-size: 1.125em; /* 18 / 16 = 1.125 */
+  line-height: 1.222em; /* 22 / 18 = 1.222 */
+}
+
+li {
+  padding-bottom: 1.222em; /* 22 / 18 = 1.222 */
+}
+
+label {
+  display: block;
+}
+
+input {
+  display: block;
+}
+
+
+
+
+/* Layout Styles */
+
+/* Modular Styles */
+
+/* State Styles */
+
+
+
+
+/* CSS Pseudo-Code */
+
+/*
+  selector {
+    property: value;
+    property: value value value;
+    property: value, value, value;
+  }
+*/
