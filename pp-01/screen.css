@@ -23,7 +23,9 @@ label {
 }
 
 input {
-  display: block;
+  padding: 1em; /* 18 / 18 = 1 */
+  border: 0;
+  background-color: #FDEBD0;
 }
 
 
