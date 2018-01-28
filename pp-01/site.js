@@ -1,4 +1,4 @@
-$('#info_form').on("submit",
+$('#info-form').on("submit",
   function(e) {
     var email = $('#email').val();
     var valid_email = /.+@.+/;
@@ -7,7 +7,7 @@ $('#info_form').on("submit",
     {
       console.log('invalid email');
       $('#invalid').remove();
-      $('#form_list').append('<li id="invalid">Please enter a valid email address.</li>');
+      $('#form-list').append('<li id="invalid">Please enter a valid email address.</li>');
       return false;
     }
     else
