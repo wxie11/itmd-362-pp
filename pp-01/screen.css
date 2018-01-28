@@ -29,15 +29,14 @@ input {
   background-color: #FDEBD0;
 }
 
-
-
-
 /* Layout Styles */
 
 /* Modular Styles */
 
 /* State Styles */
-
+#invalid {
+  color: red;
+}
 
 
 
