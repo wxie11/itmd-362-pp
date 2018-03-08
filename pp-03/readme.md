@@ -11,7 +11,7 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:http://paletton.com/#uid=14W0T0k00UhYEeQ++3ZZX88++hP
+Your Palette URL:http://paletton.com/#uid=14W0T0k00ZmYEeQ++3ZZX88++hP
 Your Rationale: I chose White color as the base color since it is an information-based website,
 so the color white gives cleanliness. The secondary color, Purple, gives a feeling of mystery
 since the product probably is not released yet.
