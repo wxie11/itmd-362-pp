@@ -35,10 +35,14 @@ label to describe a text field when placeholder text is sufficient."
 * How you implemented it in your sketch: Instead of labeling two text fields as 'Username' and 'Password' in current
 iit login page, I put them as placeholder in my sketch.
 
+
+
 * HCI Guideline Two (URL): https://material.io/guidelines/usability/accessibility.html#accessibility-style
 * Guideline from site: "Touch targets should be at least 48 x 48 dp...In most cases, touch targets should be
 separated by 8dp of space or more to ensure balanced information density and usability."
 * How you implemented it in your sketch: All the touch targets have a height of 48dp, such as the text fields and buttons and all the them are separated at least 8dp. These provide room for fingers and avoid unwanted responses.
+
+
 
 * HCI Guideline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/gestures/
 * Guideline from site: "As a general rule, use standard gestures. People are familiar with the standard gestures and don’t appreciate being forced to learn different ways to do the same thing."
