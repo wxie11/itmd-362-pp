@@ -28,12 +28,14 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
+* The current IIT login page is not mobile first and also only has one media query for big screens. That said, in the smaller screens like in phones and tablets, users have to zoom in to see the login box. Since we are focus on touch-related elements, I only sketch for small screens. My sketch is very simple and basic login page, there is two text fields for users to put in their username and password and some buttons. The main function is to let users log in to their student portal so all the other information in current iit page makes the page complicated.
+
 * HCI Guideline One (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/
 * Guideline from site: "Show a hint in a text field to help communicate purpose. A text field can contain
 placeholder text—such as "Email" or "Password"—when there’s no other text in the field. Don’t use a separate
 label to describe a text field when placeholder text is sufficient."
 * How you implemented it in your sketch: Instead of labeling two text fields as 'Username' and 'Password' in current
-iit login page, I put them as placeholder in my sketch.
+iit login page, I put them as placeholder in my sketch because this allows me to have more spaces for touch targets for a smaller screen.
 
 
 
